@@ -3,7 +3,7 @@
  */
 public class Main {
 
-    private  interface Thrower {
+    private interface Thrower {
         void throwIt();
     }
 
